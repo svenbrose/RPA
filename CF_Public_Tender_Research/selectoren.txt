@@ -1,0 +1,18 @@
+<html title='e-Vergabe, die Vergabeplattform des Bundes' />
+<webctrl css-selector='body&gt;div&gt;div&gt;div&gt;div&gt;div&gt;table&gt;tbody&gt;tr&gt;td&gt;div&gt;div' isleaf='1' parentid='datatable' tableRow='13' tag='DIV' idx='1' />
+
+<html title='e-Vergabe, die Vergabeplattform des Bundes' />
+<webctrl aaname='*' parentid='datatable' tag='A' tableCol='1' tableRow='13' tag='DIV' idx='1'  />
+
+
+<html title='e-Vergabe, die Vergabeplattform des Bundes' />
+<webctrl aaname='*' parentid='datatable' tableCol='4' tableRow='13' tag='DIV' idx='1' />
+
+<html title='e-Vergabe, die Vergabeplattform des Bundes' />
+<webctrl aaname='*' parentid='datatable' tableCol='1' tableRow='13' tag='DIV' idx='2' />
+
+
+"<html title='e-Vergabe, die Vergabeplattform des Bundes' /><webctrl parentid='datatable' tag='A' tableCol='1' tableRow='" + Row + "' />"
+
+"<html title='e-Vergabe, die Vergabeplattform des Bundes' />
+<webctrl parentid='datatable' tag='A' tableCol='1' tableRow='" + Row + "' idx='2' />"
